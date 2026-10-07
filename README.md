@@ -1,6 +1,5 @@
 # Boolean-Constraint-Satisfaction-Problem
 Boolean Constraint Satisfaction Problem (BCSP/SAT) solver in C: hill climbing with restarts vs depth-first search, plus experiments on the satisfiability phase transition
-# BCSP Solver — Boolean Constraint Satisfaction Problem
 
 A C implementation and experimental comparison of two algorithms for the
 **Boolean Constraint Satisfaction Problem (BCSP)**, also known as **k-SAT**
