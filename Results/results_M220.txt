@@ -1,0 +1,235 @@
+Results for M=220 
+ 
+FILE: M220_1.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=false  P17=true  P18=false  P19=true  P20=false  
+Time spent: 0.029000 secs
+Number of steps: 3214
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=false  P17=true  P18=false  P19=true  P20=false  
+Time spent: 0.002000 secs
+Number of restarts: 4
+Number of steps: 19
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=false  P17=true  P18=false  P19=true  P20=false  
+Time spent: 0.003000 secs
+Number of restarts: 4
+Number of steps: 19
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=false  P17=true  P18=false  P19=true  P20=false  
+Time spent: 0.003000 secs
+Number of restarts: 4
+Number of steps: 19
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=false  P17=true  P18=false  P19=true  P20=false  
+Time spent: 0.003000 secs
+Number of restarts: 4
+Number of steps: 19
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=false  P5=true  P6=true  P7=false  P8=false  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=false  P17=true  P18=false  P19=true  P20=false  
+Time spent: 0.003000 secs
+Number of restarts: 4
+Number of steps: 19
+ 
+FILE: M220_10.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.057000 secs
+Number of steps: 7002
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M220_2.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.048000 secs
+Number of steps: 5973
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M220_3.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.059000 secs
+Number of steps: 6847
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M220_4.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=false  P9=false  P10=true  P11=true  P12=false  P13=true  P14=false  P15=false  P16=true  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.042000 secs
+Number of steps: 4054
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M220_5.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.049000 secs
+Number of steps: 6574
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M220_6.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.062000 secs
+Number of steps: 6677
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M220_7.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=true  P12=false  P13=true  P14=true  P15=true  P16=true  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.023000 secs
+Number of steps: 2887
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=true  P12=false  P13=true  P14=true  P15=true  P16=false  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.005000 secs
+Number of restarts: 7
+Number of steps: 42
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=true  P12=false  P13=true  P14=true  P15=true  P16=false  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.006000 secs
+Number of restarts: 7
+Number of steps: 42
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=true  P12=false  P13=true  P14=true  P15=true  P16=false  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.005000 secs
+Number of restarts: 7
+Number of steps: 42
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=true  P12=false  P13=true  P14=true  P15=true  P16=false  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.006000 secs
+Number of restarts: 7
+Number of steps: 42
+
+
+Solution found with hill-climbing!
+P1=false  P2=true  P3=false  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=true  P12=false  P13=true  P14=true  P15=true  P16=false  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.005000 secs
+Number of restarts: 7
+Number of steps: 42
+ 
+FILE: M220_8.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.051000 secs
+Number of steps: 5970
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M220_9.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=false  P2=true  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.019000 secs
+Number of steps: 2160
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=false  P13=false  P14=true  P15=false  P16=false  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.008000 secs
+Number of restarts: 9
+Number of steps: 53
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=false  P13=false  P14=true  P15=false  P16=false  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.009000 secs
+Number of restarts: 9
+Number of steps: 53
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=false  P13=false  P14=true  P15=false  P16=false  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.008000 secs
+Number of restarts: 9
+Number of steps: 53
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=false  P13=false  P14=true  P15=false  P16=false  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.008000 secs
+Number of restarts: 9
+Number of steps: 53
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=false  P13=false  P14=true  P15=false  P16=false  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.010000 secs
+Number of restarts: 9
+Number of steps: 53

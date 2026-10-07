@@ -1,0 +1,451 @@
+Results for M=80 
+ 
+FILE: M80_1.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  P11=true  P12=true  P13=true  P14=false  P15=true  P16=true  P17=true  P18=true  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of steps: 24
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  P11=true  P12=false  P13=true  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  P11=true  P12=false  P13=true  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  P11=true  P12=false  P13=true  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  P11=true  P12=false  P13=true  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=true  P4=false  P5=true  P6=false  P7=true  P8=true  P9=false  P10=false  P11=true  P12=false  P13=true  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+ 
+FILE: M80_10.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=false  P11=true  P12=false  P13=true  P14=true  P15=false  P16=false  P17=false  P18=true  P19=false  P20=true  
+Time spent: 0.000000 secs
+Number of steps: 27
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  P11=true  P12=true  P13=false  P14=true  P15=true  P16=true  P17=true  P18=true  P19=false  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 11
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  P11=true  P12=true  P13=false  P14=true  P15=true  P16=true  P17=true  P18=true  P19=false  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 11
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  P11=true  P12=true  P13=false  P14=true  P15=true  P16=true  P17=true  P18=true  P19=false  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 11
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  P11=true  P12=true  P13=false  P14=true  P15=true  P16=true  P17=true  P18=true  P19=false  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 11
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=false  P6=true  P7=false  P8=true  P9=false  P10=false  P11=true  P12=true  P13=false  P14=true  P15=true  P16=true  P17=true  P18=true  P19=false  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 11
+ 
+FILE: M80_2.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  P11=true  P12=true  P13=true  P14=true  P15=true  P16=true  P17=false  P18=false  P19=false  P20=true  
+Time spent: 0.000000 secs
+Number of steps: 22
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=false  P7=false  P8=true  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 2
+ 
+FILE: M80_3.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=true  P12=false  P13=false  P14=false  P15=true  P16=true  P17=true  P18=true  P19=false  P20=true  
+Time spent: 0.001000 secs
+Number of steps: 299
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=false  P7=false  P8=false  P9=false  P10=false  P11=true  P12=false  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  P11=true  P12=true  P13=false  P14=false  P15=false  P16=true  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 9
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=false  P7=true  P8=false  P9=false  P10=false  P11=true  P12=true  P13=false  P14=false  P15=false  P16=true  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 9
+ 
+FILE: M80_4.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=false  P7=true  P8=true  P9=true  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=true  P17=true  P18=false  P19=false  P20=true  
+Time spent: 0.000000 secs
+Number of steps: 23
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=true  P17=false  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 12
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=true  P17=false  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 12
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=true  P17=false  P18=false  P19=true  P20=true  
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 12
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=true  P17=false  P18=false  P19=true  P20=true  
+Time spent: 0.001000 secs
+Number of restarts: 2
+Number of steps: 12
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=false  P6=false  P7=true  P8=true  P9=true  P10=false  P11=false  P12=true  P13=true  P14=false  P15=false  P16=true  P17=false  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 2
+Number of steps: 12
+ 
+FILE: M80_5.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=false  P10=true  P11=false  P12=false  P13=true  P14=true  P15=false  P16=true  P17=false  P18=true  P19=false  P20=false  
+Time spent: 0.000000 secs
+Number of steps: 144
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=false  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+ 
+FILE: M80_6.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=false  P8=true  P9=true  P10=true  P11=false  P12=false  P13=false  P14=true  P15=true  P16=false  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of steps: 124
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=false  P4=false  P5=true  P6=true  P7=false  P8=true  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=true  P18=false  P19=true  P20=true  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+ 
+FILE: M80_7.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=false  P9=true  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=true  P17=true  P18=true  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of steps: 33
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  P11=false  P12=true  P13=false  P14=false  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  P11=false  P12=true  P13=false  P14=false  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  P11=false  P12=true  P13=false  P14=false  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  P11=false  P12=true  P13=false  P14=false  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=false  P11=false  P12=true  P13=false  P14=false  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 3
+ 
+FILE: M80_8.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=false  P10=true  P11=true  P12=false  P13=false  P14=false  P15=false  P16=false  P17=true  P18=true  P19=false  P20=true  
+Time spent: 0.000000 secs
+Number of steps: 134
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 4
+
+
+Solution found with hill-climbing!
+P1=false  P2=false  P3=false  P4=true  P5=true  P6=true  P7=false  P8=false  P9=false  P10=true  P11=true  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.001000 secs
+Number of restarts: 0
+Number of steps: 4
+ 
+FILE: M80_9.txt 
+[DFS] 
+
+
+Solution found with depth-first!
+P1=true  P2=true  P3=true  P4=true  P5=true  P6=true  P7=true  P8=true  P9=true  P10=true  P11=false  P12=true  P13=true  P14=true  P15=true  P16=false  P17=true  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of steps: 21
+[HILL] 
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1
+
+
+Solution found with hill-climbing!
+P1=true  P2=false  P3=true  P4=false  P5=false  P6=true  P7=false  P8=false  P9=false  P10=true  P11=false  P12=true  P13=false  P14=true  P15=false  P16=false  P17=false  P18=false  P19=true  P20=false  
+Time spent: 0.000000 secs
+Number of restarts: 0
+Number of steps: 1

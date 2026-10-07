@@ -1,0 +1,141 @@
+Results for M=300 
+ 
+FILE: M300_1.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.057000 secs
+Number of steps: 4617
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_10.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.053000 secs
+Number of steps: 3916
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_2.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.035000 secs
+Number of steps: 2579
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_3.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.036000 secs
+Number of steps: 2706
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_4.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.052000 secs
+Number of steps: 3709
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_5.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.031000 secs
+Number of steps: 2435
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_6.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.034000 secs
+Number of steps: 2767
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_7.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.036000 secs
+Number of steps: 2966
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_8.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.056000 secs
+Number of steps: 4131
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+ 
+FILE: M300_9.txt 
+[DFS] 
+
+
+NO SOLUTION EXISTS. Proved by depth-first!
+Time spent: 0.065000 secs
+Number of steps: 4769
+[HILL] 
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
+Limit of 10 restarts exceeded. Hill climbing terminates.
